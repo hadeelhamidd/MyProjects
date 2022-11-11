@@ -1,0 +1,104 @@
+title{
+    font-size: 20px;
+}
+
+h1{
+    color:maroon;
+    font-family: cursive;
+    font-size: 60px;
+}
+.me {
+    border-radius: 50%;
+}
+h2{
+    padding-top:40px;
+   color:maroon;
+   font-family: cursive;
+    font-size: 30px;
+      
+}
+p{
+    color: black;
+    text-align:auto;
+    width:500px;   
+}
+h3{
+
+    font-size:30px;
+    color:maroon;
+    font-family: cursive;
+    padding-top:100px;
+}
+ul{
+    padding-left: 0px;
+    
+}
+    
+ul li{
+    list-style-position: inside;
+}
+.header{
+    overflow:hidden;
+    background-color:maroon;
+    padding: 20px 10px;
+}
+.header a{
+    float:left;
+    color:white;
+    text-align:center;
+    padding:12px;
+    text-decoration:none;
+    font-size:18px;
+    line-height:25px;
+    border-radius:4px
+}
+.header a.logo{
+    width:50px;
+}
+.header a:hover{
+    backround-color:#ddd;
+    color:black;
+}
+.header a.active{
+    background-color: palevioletred;
+    color:white;
+}
+.header-right{
+    float:right;
+}
+
+hr{
+    color:palevioletred;
+    width: 500px;
+    
+    
+}
+h4{
+
+    font-size:30px;
+    color:maroon;
+    font-family: cursive;
+    padding-top:100px;
+}
+
+table, th, td{
+    
+   border:1px solid;
+}
+tr:hover{background-color: palevioletred ;}
+th{
+    background-color:maroon;
+    color:ghostwhite;
+}
+body{
+    
+    background-color:white;
+    opacity:0.899999;
+    margin: 0px 10%
+    
+    
+}
+html { 
+  background: url("https://i0.wp.com/thepinkbrunette.com/wp-content/uploads/2022/02/Blank-600-x-900-copy-5-6.jpg?resize=600%2C900") no-repeat center center fixed; 
+  background-size: cover;
+}
